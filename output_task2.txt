@@ -1,0 +1,6 @@
+"UC Berkeley"	78.11242603550296
+"MIT"	81.08904109589041
+"Oxford University"	79.32558139534883
+"Stanford University"	79.87647058823529
+"Harvard University"	78.975
+"Cambridge University"	79.44808743169399

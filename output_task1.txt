@@ -1,0 +1,6 @@
+"Software Engineering"	78.08695652173913
+"Cyber Security"	78.58333333333333
+"Data Structures"	81.45341614906832
+"Machine Learning"	79.43125
+"Computer Vision"	79.73958333333333
+"Artificial Intelligence"	79.31012658227849
