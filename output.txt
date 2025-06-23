@@ -1,0 +1,56 @@
+ - Machine Learning: 15 entries
+ - Data Science: 19 entries
+ - Cyber Security: 9 entries
+ - AI Ethics: 7 entries
+
+Generated Entries:
+1. {'Year': 2023, 'Course Name': 'Machine Learning', 'Grade': 72, 'University': 'Stanford University'}
+2. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 72, 'University': 'MIT'}
+3. {'Year': 2024, 'Course Name': 'Cyber Security', 'Grade': 81, 'University': 'Harvard'}
+4. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 92, 'University': 'Stanford University'}
+5. {'Year': 2022, 'Course Name': 'Machine Learning', 'Grade': 77, 'University': 'MIT'}
+6. {'Year': 2023, 'Course Name': 'Cyber Security', 'Grade': 88, 'University': 'Stanford University'}
+7. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 89, 'University': 'UC Berkeley'}
+8. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 63, 'University': 'UC Berkeley'}
+9. {'Year': 2024, 'Course Name': 'Machine Learning', 'Grade': 79, 'University': 'Harvard'}
+10. {'Year': 2022, 'Course Name': 'Machine Learning', 'Grade': 69, 'University': 'MIT'}
+11. {'Year': 2024, 'Course Name': 'Machine Learning', 'Grade': 66, 'University': 'Harvard'}
+12. {'Year': 2023, 'Course Name': 'AI Ethics', 'Grade': 92, 'University': 'UC Berkeley'}
+13. {'Year': 2022, 'Course Name': 'Machine Learning', 'Grade': 100, 'University': 'UC Berkeley'}
+14. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 89, 'University': 'MIT'}
+15. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 65, 'University': 'MIT'}
+16. {'Year': 2022, 'Course Name': 'Machine Learning', 'Grade': 91, 'University': 'UC Berkeley'}
+17. {'Year': 2023, 'Course Name': 'Cyber Security', 'Grade': 72, 'University': 'MIT'}
+18. {'Year': 2022, 'Course Name': 'Cyber Security', 'Grade': 62, 'University': 'Harvard'}
+19. {'Year': 2022, 'Course Name': 'AI Ethics', 'Grade': 77, 'University': 'Harvard'}
+20. {'Year': 2022, 'Course Name': 'Machine Learning', 'Grade': 68, 'University': 'Harvard'}
+21. {'Year': 2023, 'Course Name': 'Cyber Security', 'Grade': 91, 'University': 'Harvard'}
+22. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 87, 'University': 'MIT'}
+23. {'Year': 2023, 'Course Name': 'Machine Learning', 'Grade': 63, 'University': 'Harvard'}
+24. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 91, 'University': 'UC Berkeley'}
+25. {'Year': 2022, 'Course Name': 'Data Science', 'Grade': 65, 'University': 'MIT'}
+26. {'Year': 2024, 'Course Name': 'Machine Learning', 'Grade': 92, 'University': 'Harvard'}
+27. {'Year': 2024, 'Course Name': 'AI Ethics', 'Grade': 86, 'University': 'MIT'}
+28. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 69, 'University': 'UC Berkeley'}
+29. {'Year': 2023, 'Course Name': 'Cyber Security', 'Grade': 81, 'University': 'Harvard'}
+30. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 85, 'University': 'UC Berkeley'}
+31. {'Year': 2023, 'Course Name': 'Cyber Security', 'Grade': 87, 'University': 'MIT'}
+32. {'Year': 2022, 'Course Name': 'Data Science', 'Grade': 65, 'University': 'Harvard'}
+33. {'Year': 2024, 'Course Name': 'Machine Learning', 'Grade': 90, 'University': 'Stanford University'}
+34. {'Year': 2022, 'Course Name': 'AI Ethics', 'Grade': 85, 'University': 'Stanford University'}
+35. {'Year': 2024, 'Course Name': 'Machine Learning', 'Grade': 76, 'University': 'Stanford University'}
+36. {'Year': 2024, 'Course Name': 'AI Ethics', 'Grade': 84, 'University': 'UC Berkeley'}
+37. {'Year': 2022, 'Course Name': 'Cyber Security', 'Grade': 91, 'University': 'Stanford University'}
+38. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 79, 'University': 'UC Berkeley'}
+39. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 88, 'University': 'Stanford University'}
+40. {'Year': 2022, 'Course Name': 'Data Science', 'Grade': 90, 'University': 'Harvard'}
+41. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 63, 'University': 'Stanford University'}
+42. {'Year': 2024, 'Course Name': 'Data Science', 'Grade': 86, 'University': 'Stanford University'}
+43. {'Year': 2024, 'Course Name': 'Cyber Security', 'Grade': 73, 'University': 'MIT'}
+44. {'Year': 2023, 'Course Name': 'Machine Learning', 'Grade': 97, 'University': 'MIT'}
+45. {'Year': 2023, 'Course Name': 'Machine Learning', 'Grade': 67, 'University': 'Harvard'}
+46. {'Year': 2023, 'Course Name': 'AI Ethics', 'Grade': 71, 'University': 'Stanford University'}
+47. {'Year': 2024, 'Course Name': 'AI Ethics', 'Grade': 68, 'University': 'UC Berkeley'}
+48. {'Year': 2022, 'Course Name': 'Data Science', 'Grade': 64, 'University': 'MIT'}
+49. {'Year': 2024, 'Course Name': 'Machine Learning', 'Grade': 67, 'University': 'Stanford University'}
+50. {'Year': 2023, 'Course Name': 'Data Science', 'Grade': 67, 'University': 'Stanford University'}
